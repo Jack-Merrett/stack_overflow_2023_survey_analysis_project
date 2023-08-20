@@ -56,4 +56,3 @@ This project is inspired by the Stack Overflow Developer Survey and aims to cont
 
 This project is licensed under the [Stack Overflow](LICENSE).
 
-By crafting this README.md, you can effectively convey the purpose, scope, and key aspects of your Stack Overflow 2023 Survey Analysis project to potential readers and collaborators.
