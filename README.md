@@ -52,9 +52,6 @@ To get started with the Stack Overflow 2023 Survey Analysis project:
 ## Acknowledgments
 
 This project is inspired by the Stack Overflow Developer Survey and aims to contribute to the understanding of developer trends and challenges. Special thanks to the Stack Overflow community for providing the dataset and the open-source community for developing essential Python libraries.
-
-Feel free to modify and personalize this README according to your project's specifics. Good luck with your Stack Overflow 2023 Survey Analysis project!
-
 ## License
 
 This project is licensed under the [Stack Overflow](LICENSE).
